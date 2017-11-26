@@ -4,5 +4,5 @@ This repository contains the documents for my Springboard Mini-Project on Infere
 
 The files in this repository are:
 
-This file === README.md
-My submission (code & documentation) === Hospital_Readmissions_exercise.ipynb
+1. This file === README.md
+2. My submission (code & documentation) === Hospital_Readmissions_exercise.ipynb
